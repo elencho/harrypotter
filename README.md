@@ -1,3 +1,19 @@
+# Harry Potter Web App
+
+![Peek 2020-09-14 00-30](https://user-images.githubusercontent.com/53994979/93028019-0e739c00-f622-11ea-87bb-d342b8ce3b8c.gif)
+
+## API
+https://api.themoviedb.org/3/search/movie?api_key=1efc065ba18d1bab5e09dca920757697&query=harry%20potter
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
